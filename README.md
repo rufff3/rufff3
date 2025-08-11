@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="75%">
 </p>
@@ -25,10 +26,6 @@
   </a>
 </p>
 
-<a href="https://github.com/cnrad/lanyard">
-  <img src="https://lanyard.cnrad.dev/api/977606676888842240?theme=tokyonight&borderRadius=5px" alt="Discord Presence"/>
-</a>
-
 ---
 
 ### 👨‍💻 Tentang Saya
@@ -53,7 +50,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -66,7 +62,7 @@
 
 | Proyek                     | Deskripsi                                                                    | Teknologi                    |
 |----------------------------|--------------------------------------------------------------------------------|------------------------------|
-| 🤖 **Bot Otomatisasi FB** | Kirim pesan massal, komentar, scrape teman, auto-follow, posting grup spintax   | `Python`, `Selenium`         |
-| 🐦 **Bot Twitter** | Auto-follow, retweet, komentar di Twitter multi-akun                           | `Python`, `Selenium`         |
-| 💰 **Pemindai Wallet Kripto**| Scan saldo EVM, Tron, Solana. Kirim otomatis jika ada saldo.                     | `Python`, `Web3.py`, `Solana`|
-| 🖼️ **Penata Chrome** | Menata otomatis semua jendela Chrome di desktop                                | `Python`, `pygetwindow`      |
+| 🤖 **Bot Otomatisasi FB**   | Kirim pesan massal, komentar, scrape teman, auto-follow, posting grup spintax | `Python`, `Selenium`         |
+| 🐦 **Bot Twitter**          | Auto-follow, retweet, komentar di Twitter multi-akun                         | `Python`, `Selenium`         |
+| 💰 **Pemindai Wallet Kripto**| Scan saldo EVM, Tron, Solana. Kirim otomatis jika ada saldo.                 | `Python`, `Web3.py`, `Solana`|
+| 🖼️ **Penata Chrome**        | Menata otomatis semua jendela Chrome di desktop                              | `Python`, `pygetwindow`      |
